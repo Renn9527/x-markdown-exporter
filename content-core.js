@@ -12,7 +12,7 @@
   const JPEG_QUALITY = 0.7;
   const POST_DETAIL_URL_RE =
     /^https:\/\/(x\.com|twitter\.com)\/[^/]+\/(status|i\/web\/status)\/\d+/i;
-  const GITHUB_ISSUES_URL = 'https://github.com/Renn9527/x-markdown-exporter/issues';
+  const GITHUB_ISSUES_URL = 'https://github.com/rowanjove/x-markdown-exporter/issues';
   const ARTICLE_CONTENT_SELECTOR =
     '[data-testid="article-content"], ' +
     '[data-testid="noteContent"], ' +
